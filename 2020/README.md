@@ -27,9 +27,10 @@
 | Python3 网络爬虫（四）：视频下载，那些事儿！| [公众号](https://mp.weixin.qq.com/s/_geNA6Dwo4kx25X7trJzlg "Python3 网络爬虫（四）") | [Code](https://github.com/Jack-Cherish/python-spider/tree/master/2020/zycjw "Python3 网络爬虫（四）") |
 | Python3 网络爬虫（五）：老板，需要特殊服务吗？| [公众号](https://mp.weixin.qq.com/s/PPTSnIHV71b-wB3oRiYnIA "Python3 网络爬虫（五）") | [Code](https://github.com/Jack-Cherish/python-spider/tree/master/2020/api "Python3 网络爬虫（五）") |
 | Python3 网络爬虫（六）：618，爱他/她，就清空他/她的购物车！| [公众号](https://mp.weixin.qq.com/s/lXXDfzyLVrf3f-aqJN1C3A "Python3 网络爬虫（六）") | [Code](https://github.com/Jack-Cherish/python-spider/tree/master/2020/taobao "Python3 网络爬虫（六）") |
+| 宝藏B站UP主，视频弹幕尽收囊中！| [公众号](https://mp.weixin.qq.com/s/aWratg1j9RBAjIghoY66yQ "宝藏B站UP主，视频弹幕尽收囊中!") | [Code](https://github.com/Jack-Cherish/python-spider/tree/master/2020/bilibili "宝藏B站UP主，视频弹幕尽收囊中!") |
 
 更多精彩，敬请期待！
 
 <a name="微信"></a>  <a name="公众号"></a>
 
-![公众号](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)
+<img src="https://ftp.bmp.ovh/imgs/2020/07/112254f0199e3d4f.jpg" alt="wechat" width="400" height="200" align="bottom" />
